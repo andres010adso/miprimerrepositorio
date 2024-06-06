@@ -1,3 +1,4 @@
 <?php
-echo "hola mundo";
+$var = (9<2) ? "entro al si" : "entro al no";
+echo "$var";
 ?>
